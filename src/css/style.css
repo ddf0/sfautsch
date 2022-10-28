@@ -1,0 +1,146 @@
+/* Used at all page */
+.standart_href{}
+.img_chat{}
+.img_energy{}
+.img_man_with_laptop{}
+.img_watch{}
+.img_cup{}
+.img_facebook{}
+.img_twiter{}
+.img_vk{}
+/* Header */
+.header__developer_text{}
+.header__text{}
+/* Face */
+.face{}
+.face__h1{
+    padding-top: 60px;
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    font-size: 40px;
+}
+.face__article{
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    padding: 30px;
+}
+.face__buttons{
+    margin: auto;
+    text-align: center;
+    display: inline;
+}
+.face__contact_in_telegram{
+    padding: 10px;
+}
+.face__video_portfolio{
+    padding: 10px;
+}
+/* Works */
+.works{}
+.works__filter
+{
+    text-align: center;
+    margin: auto;
+}
+.works__active_filter{}
+.works__inactive_filter{}
+.works__img_area{}
+.works__row{}
+.works__column{}
+.works__img{
+    max-width: 90%;
+}
+/* About me */
+.about_me{}
+.about_me__column{}
+.about_me__my_photo{
+    width: 30%;
+}
+.about_me__h2{
+    font-size: 40px;
+}
+.about_me__text{}
+.about_me__important_text{
+    font-weight: bold;
+}
+.about_me__small_row{}
+.about_me__small_column{}
+/* Services */
+.services{
+    background-color: #181818;
+}
+.services__row{}
+.services__column{
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+}
+.services__h2{
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-size: 35px;
+}
+.services__main_text{
+    color:#181818;
+}
+.services__h_text{
+    font-weight: bold;
+}
+.services__money_text{
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: large;
+}
+.services__main_text_area{}
+/* Cost calculation */
+.cost_calculation{
+    margin: auto;
+    width: 40%;
+}
+.cost_calculation__row{}
+.cost_calculation__enter{}
+.cost_calculation__output{}
+.cost_calculation__work_type{}
+.cost_calculation__enter{}
+.cost_calculation__enter_button{}
+.cost_calculation__output{}
+.cost_calculation__output_button{}
+.cost_calculation__output_important_text{}
+.cost_calculation__output_text{}
+/* Question answer */
+.question_answer{
+    background-color:#181818;
+}
+.question_answer__row{
+    background-color:white;
+    margin: 10px;
+}
+.question_answer__question{
+    margin: auto;
+    padding: 10px 0px 0px 15px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.question_answer__plus{}
+.question_answer__x{}
+.question_answer__text{
+    margin: auto;
+    padding: 0px 0px 3px 20px;
+}
+/* Application */
+.application{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+.application__row{}
+.application__h2{}
+.application__input_area{}
+.application__input{}
+.application__select{}
+.application__textarea{}
+.application__service{}
+.application__input_button{}
